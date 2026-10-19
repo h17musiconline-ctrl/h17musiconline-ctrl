@@ -4,7 +4,7 @@ Producer, engineer and **audio plugin developer from Puerto Rico**. I founded **
 and I'm one of the first audio plugin developers from Puerto Rico.
 
 - 🎛️ I design and code every H-17 plugin myself (C++, JUCE, DSP), for Mac and Windows (VST3 + AU).
-- 🎤 **[Afinao](https://h17music.com/plugins/afinao/)** is the first autotune made in Puerto Rico.
+- 🎤 **[Afinao](https://h17music.com/plugins/afinao/)** is the first autotune made in Puerto Rico: [the story](https://h17music.com/first-autotune-made-in-puerto-rico/) · [la historia](https://h17music.com/primer-autotune-hecho-en-puerto-rico/).
 - 🎚️ **H-17 Studio**, Lajas, Puerto Rico, since 2021: recording, production, mixing and mastering.
 
 ## The H-17 plugins
@@ -21,7 +21,7 @@ and I'm one of the first audio plugin developers from Puerto Rico.
 | [Estadio](https://h17music.com/plugins/estadio/) | Stadium choir | Coro de estadio |
 | [Casete](https://h17music.com/plugins/casete/) | Retro color & lo-fi | Color retro y lo-fi |
 
-All of them at **[h17music.com](https://h17music.com)**.
+All of them at **[h17music.com](https://h17music.com)** · Press kit: [h17-music-press-kit](https://github.com/h17musiconline-ctrl/h17-music-press-kit)
 
 ## En español
 
